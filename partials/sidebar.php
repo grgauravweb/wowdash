@@ -51,19 +51,19 @@
             </li>
             <li class="sidebar-menu-group-title">Content Manager</li>
             <li>
-                <a href="email.php">
+                <a href="content-category.php">
                     <iconify-icon icon="fluent:content-view-16-regular" class="menu-icon"></iconify-icon>
                     <span>Content Category</span>
                 </a>
             </li>
             <li>
-                <a href="chat-message.php">
+                <a href="cms-manager.php">
                     <iconify-icon icon="fluent-mdl2:content-settings" class="menu-icon"></iconify-icon>
                     <span>CMS Manager</span>
                 </a>
             </li>
             <li>
-                <a href="calendar-main.php">
+                <a href="media-manager.php">
                     <iconify-icon icon="solar:gallery-wide-linear" class="menu-icon"></iconify-icon>
                     <span>Media Manager</span>
                 </a>
@@ -142,7 +142,7 @@
             <li class="sidebar-menu-group-title">Info Manager</li>
 
             <li>
-                <a href="javascript:void(0)">
+                <a href="download.php">
                     <iconify-icon icon="material-symbols:download" class="menu-icon"></iconify-icon>
                     <span>Download</span>
                 </a>
@@ -213,7 +213,7 @@
                 </ul> -->
             </li>
             <li>
-                <a href="javascript:void(0)">
+                <a href="employee-manager.php">
                     <iconify-icon icon="clarity:employee-group-line" class="menu-icon"></iconify-icon>
                     <span>Employee Manager</span>
                 </a>
@@ -308,19 +308,19 @@
             <li class="sidebar-menu-group-title">Job Posting</li>
 
             <li>
-                <a href="javascript:void(0)">
+                <a href="job-category.php">
                     <iconify-icon icon="hugeicons:permanent-job" class="menu-icon"></iconify-icon>
                     <span>Job Category</span>
                 </a>
             </li>
             <li>
-                <a href="gallery.php">
+                <a href="job-manager.php">
                     <iconify-icon icon="fluent-mdl2:manager-self-service" class="menu-icon"></iconify-icon>
                     <span>Job Manager</span>
                 </a>
             </li>
             <li>
-                <a href="pricing.php">
+                <a href="client-manager.php">
                     <iconify-icon icon="hugeicons:manager" class="menu-icon"></iconify-icon>
                     <span>Client Manager</span>
                 </a>
@@ -381,7 +381,7 @@
             </li> -->
             <li class="sidebar-menu-group-title">Jobseeker Manager</li>
             <li>
-                <a href="gallery.php">
+                <a href="jobseeker-manager.php">
                     <iconify-icon icon="icomoon-free:user-tie" class="menu-icon"></iconify-icon>
                     <span>Jobseeker Manager</span>
                 </a>
