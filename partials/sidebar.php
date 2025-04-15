@@ -387,19 +387,19 @@
                 </a>
             </li>
             <li>
-                <a href="gallery.php">
+                <a href="archive-manager.php">
                     <iconify-icon icon="material-symbols:archive-outline" class="menu-icon"></iconify-icon>
                     <span>Archive Manager</span>
                 </a>
             </li>
             <li>
-                <a href="gallery.php">
+                <a href="enquire-list.php">
                     <iconify-icon icon="fluent:people-list-20-regular" class="menu-icon"></iconify-icon>
                     <span>Enquire List</span>
                 </a>
             </li>
             <li>
-                <a href="gallery.php">
+                <a href="graviences-list.php">
                     <iconify-icon icon="hugeicons:complaint" class="menu-icon"></iconify-icon>
                     <span>Graviences List</span>
                 </a>
